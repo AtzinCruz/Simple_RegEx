@@ -1,5 +1,5 @@
 # Simple_RegEx
-Creators: @AtzinCruz and @JoseCerna
+Creators: @AtzinCruz and @Joe-IA
 
 # ReGex Utility with Tkinter GUI
 This Python script provides a simple graphical user interface (GUI) for working with regular expressions using the Tkinter library. The application allows users to upload a text file, apply regular expressions, and view the matched indexes.
